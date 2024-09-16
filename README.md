@@ -1,3 +1,13 @@
+# Demo Video Meeting Client using React, WebRTC, ElectronJS
+
+This is a demo video meeting app made using react and webrtc.
+This uses socket.io on the server side.
+Steps to run 
+1. npm run start
+2. npm run electron
+
+Features such as join meet, start new meet , AI chat bot, etc.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
